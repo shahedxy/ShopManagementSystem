@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0ADA8CC3-262D-4993-A3D1-43849A8E3BF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PointOfSales</RootNamespace>
+    <AssemblyName>SmartShop</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>pen_paper_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.7.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Application Software\itextsharp-all-5.5.7\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.7.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Application Software\itextsharp-all-5.5.7\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.7.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Application Software\itextsharp-all-5.5.7\itextsharp-dll-xtra\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="SpellNumber">
+      <HintPath>..\..\GreenPharma\NextPharma\bin\Debug\SpellNumber.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAccountLedger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAccountLedger.Designer.cs">
+      <DependentUpon>FormAccountLedger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBalanceSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBalanceSheet.Designer.cs">
+      <DependentUpon>FormBalanceSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormItemPurchaseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormItemPurchaseReport.Designer.cs">
+      <DependentUpon>FormItemPurchaseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManageAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManageAccount.Designer.cs">
+      <DependentUpon>FormManageAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPurchaseItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPurchaseItem.Designer.cs">
+      <DependentUpon>FormPurchaseItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPurchaseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPurchaseReport.Designer.cs">
+      <DependentUpon>FormPurchaseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPurchaseReturnInvoiceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPurchaseReturnInvoiceReport.Designer.cs">
+      <DependentUpon>FormPurchaseReturnInvoiceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPurchaseReturnItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPurchaseReturnItem.Designer.cs">
+      <DependentUpon>FormPurchaseReturnItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPurchaseReturnItemReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPurchaseReturnItemReport.Designer.cs">
+      <DependentUpon>FormPurchaseReturnItemReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReplacementItemBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReplacementItemBalance.Designer.cs">
+      <DependentUpon>FormReplacementItemBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalesReturnInvoiceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalesReturnInvoiceReport.Designer.cs">
+      <DependentUpon>FormSalesReturnInvoiceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalesReturnItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalesReturnItem.Designer.cs">
+      <DependentUpon>FormSalesReturnItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalesReturnItemReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalesReturnItemReport.Designer.cs">
+      <DependentUpon>FormSalesReturnItemReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransactionEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransactionEntry.Designer.cs">
+      <DependentUpon>FormTransactionEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDamageReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDamageReport.Designer.cs">
+      <DependentUpon>FormDamageReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDamageReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDamageReturn.Designer.cs">
+      <DependentUpon>FormDamageReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmail.Designer.cs">
+      <DependentUpon>FormEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmailConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmailConfiguration.Designer.cs">
+      <DependentUpon>FormEmailConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExpenditure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExpenditure.Designer.cs">
+      <DependentUpon>FormExpenditure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExpenditureReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExpenditureReport.Designer.cs">
+      <DependentUpon>FormExpenditureReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormItemBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormItemBalance.Designer.cs">
+      <DependentUpon>FormItemBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormItemManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormItemManager.Designer.cs">
+      <DependentUpon>FormItemManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormItemSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormItemSalesReport.Designer.cs">
+      <DependentUpon>FormItemSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMessage.Designer.cs">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhoneBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhoneBook.Designer.cs">
+      <DependentUpon>FormPhoneBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalesReport.Designer.cs">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSecurity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSecurity.Designer.cs">
+      <DependentUpon>FormSecurity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettings.Designer.cs">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffManager.Designer.cs">
+      <DependentUpon>FormStaffManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransactionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransactionReport.Designer.cs">
+      <DependentUpon>FormTransactionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserPanel.Designer.cs">
+      <DependentUpon>FormUserPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAccountLedger.resx">
+      <DependentUpon>FormAccountLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBalanceSheet.resx">
+      <DependentUpon>FormBalanceSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDamageReport.resx">
+      <DependentUpon>FormDamageReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDamageReturn.resx">
+      <DependentUpon>FormDamageReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmail.resx">
+      <DependentUpon>FormEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmailConfiguration.resx">
+      <DependentUpon>FormEmailConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExpenditure.resx">
+      <DependentUpon>FormExpenditure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExpenditureReport.resx">
+      <DependentUpon>FormExpenditureReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormItemBalance.resx">
+      <DependentUpon>FormItemBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormItemManager.resx">
+      <DependentUpon>FormItemManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormItemPurchaseReport.resx">
+      <DependentUpon>FormItemPurchaseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormItemSalesReport.resx">
+      <DependentUpon>FormItemSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManageAccount.resx">
+      <DependentUpon>FormManageAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMessage.resx">
+      <DependentUpon>FormMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhoneBook.resx">
+      <DependentUpon>FormPhoneBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPurchaseItem.resx">
+      <DependentUpon>FormPurchaseItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPurchaseReport.resx">
+      <DependentUpon>FormPurchaseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPurchaseReturnInvoiceReport.resx">
+      <DependentUpon>FormPurchaseReturnInvoiceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPurchaseReturnItem.resx">
+      <DependentUpon>FormPurchaseReturnItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPurchaseReturnItemReport.resx">
+      <DependentUpon>FormPurchaseReturnItemReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReplacementItemBalance.resx">
+      <DependentUpon>FormReplacementItemBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalesReport.resx">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalesReturnInvoiceReport.resx">
+      <DependentUpon>FormSalesReturnInvoiceReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalesReturnItem.resx">
+      <DependentUpon>FormSalesReturnItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalesReturnItemReport.resx">
+      <DependentUpon>FormSalesReturnItemReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSecurity.resx">
+      <DependentUpon>FormSecurity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettings.resx">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffManager.resx">
+      <DependentUpon>FormStaffManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransactionEntry.resx">
+      <DependentUpon>FormTransactionEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransactionReport.resx">
+      <DependentUpon>FormTransactionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserPanel.resx">
+      <DependentUpon>FormUserPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoR.png" />
+    <None Include="bin\Debug\user.png" />
+    <Content Include="pen_paper_icon.ico" />
+    <None Include="Resources\lenovosmall2.png" />
+    <None Include="Resources\securitycheck.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

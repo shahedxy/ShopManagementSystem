@@ -1,0 +1,333 @@
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\PointOfSales.exe
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\PointOfSales.pdb
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.exe
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.pdb
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\itextsharp.dll
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\itextsharp.xml
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Project Files\PointOfSales\PointOfSales\bin\Debug\SpellNumber.dll
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Project Files\PointOfSales\PointOfSales\obj\Debug\PointOfSales.FormPurchase.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.exe
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.pdb
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\PointOfSales.exe
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\PointOfSales.pdb
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\itextsharp.dll
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\SpellNumber.dll
+F:\Project Files\PointOfSales New\PointOfSales\bin\Debug\itextsharp.xml
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormPurchase.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Project Files\PointOfSales New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseInvoiceReport.resources
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\itextsharp.dll
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\SpellNumber.dll
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\itextsharp.xml
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\SmartShop.exe
+F:\Project Files\Smart Shop\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\SmartShop.exe
+F:\Project Files\Smart Shop\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\SmartShop.exe
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\SmartShop.exe
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\itextsharp.dll
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\SpellNumber.dll
+F:\Project Files\Smart Shop Full\PointOfSales\bin\Debug\itextsharp.xml
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnInvoiceReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItem.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItemReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnInvoiceReport.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItem.resources
+F:\Project Files\Smart Shop Full\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItemReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\SmartShop.exe
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\SmartShop.exe
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\itextsharp.dll
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Client Files\Computer Clinic\PointOfSales\bin\Debug\itextsharp.xml
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnInvoiceReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItem.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItemReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnInvoiceReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItem.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItemReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Client Files\Computer Clinic\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\SmartShop.exe
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\SmartShop.exe
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\itextsharp.dll
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Client Files\Karim Electronics\PointOfSales\bin\Debug\itextsharp.xml
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnInvoiceReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItem.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItemReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnInvoiceReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItem.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItemReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Client Files\Karim Electronics\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\SmartShop.exe
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\SmartShop.exe
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\itextsharp.dll
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\bin\Debug\itextsharp.xml
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnInvoiceReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItem.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItemReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnInvoiceReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItem.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItemReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Client Files\AL NOOR ELECTRONICS\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\SmartShop.exe
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\SmartShop.exe
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\SmartShop.pdb
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\itextsharp.dll
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\itextsharp.pdfa.dll
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\itextsharp.xtra.dll
+F:\Project Files\Smart Shop New\PointOfSales\bin\Debug\itextsharp.xml
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.csprojResolveAssemblyReference.cache
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormAbout.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormBalanceSheet.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormDamageReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormDamageReturn.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormEmail.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormEmailConfiguration.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormExpenditure.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormExpenditureReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormItemBalance.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormItemManager.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormItemPurchaseReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormItemSalesReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormLogin.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormMain.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormManageAccount.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormMessage.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPhoneBook.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseItem.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnInvoiceReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItem.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormPurchaseReturnItemReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSalesReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnInvoiceReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItem.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSalesReturnItemReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSecurity.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormSettings.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormStaffManager.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormTransactionEntry.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormTransactionReport.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormUserPanel.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.Cache
+F:\Project Files\Smart Shop New\PointOfSales\obj\Debug\PointOfSales.FormAccountLedger.resources
